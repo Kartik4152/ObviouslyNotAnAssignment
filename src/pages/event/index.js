@@ -17,7 +17,7 @@ const EventPage = () => {
   }, [eventDetails, navigate]);
 
   return (
-    <div className='min-h-screen w-full md:pt-[5.5rem] bg-neutral-100 flex flex-col items-center'>
+    <div className='min-h-screen w-full md:pt-[5.5rem] bg-neutral-100 flex flex-col items-center xl:flex-row'>
       <div className='w-full h-full aspect-square max-w-sm md:max-w-[593px] mx-auto mb-3 xl:mb-0 xl:order-2'>
           <img src={Cake} alt="cake" className='object-contain'/>
       </div>
