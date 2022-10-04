@@ -10,7 +10,7 @@ module.exports = {
         "primary-100": "#E87BF8",
         "secondary-300":"#CCB6FF",
         "secondary-200":"#EDE5FF",
-        "secondary-100":"#EDE5FF",
+        "secondary-100":"#F6F2FF",
         "alert-error-light": "#FFD7E0",
         "alert-error": "#E61445",
         "alert-success-light": "#D3FFE2",
