@@ -21,7 +21,7 @@ module.exports = {
         "neutral-300": "#E0E0E0",
         "neutral-200": "#F2F2F2",
         "neutral-100": "#FBFAFF"
-      }
+      },
     },
   },
   plugins: [],
